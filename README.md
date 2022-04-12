@@ -1,2 +1,2 @@
 # Autoregression-on-Covid-data
-Extracted covid data and predicted future wave
+Plotted covid data and predicted future wave using autoregression
